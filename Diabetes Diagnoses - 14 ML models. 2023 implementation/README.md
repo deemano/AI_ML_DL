@@ -12,20 +12,20 @@
    - Normalize 'BMI' feature with Power Transformer - Yeo-Johnson transformation
 
 4. Exploratory Data Analysis (EDA):
-   4.1. Target Variable Distribution & Visualization
+4.1. Target Variable Distribution & Visualization
    4.2. Visualize Numerical Features Distribution
    4.3. Correlation Matrix
    4.4. Pair Pilot Visualization
    4.5. Visualize features across classes - Box-plots
    4.6. Categorical Features - Count-plots 
 
-5. Data Partitioning
-6. Features Selection Methods
+6. Data Partitioning
+7. Features Selection Methods
    6.1. Feature Importance with Random Forest
        6.1.1. Testing Random Forest with GridSearchCV - determine best ML model hyperparameters
    6.2. Dropping irrelevant columns
 
-7. Hierarchical classification (2 stages)
+8. Hierarchical classification (2 stages)
    - Building the Model structure
 
    Stage 1 Classification Models (various tried)
