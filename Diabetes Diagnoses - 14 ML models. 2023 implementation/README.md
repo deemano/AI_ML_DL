@@ -1,4 +1,4 @@
-# Implementation of 14 different ML models
+# Implementation of 14 different ML models for Binary Hierarchical Classification
 
 ## CONTENT: 
 0. System Setup - Set model to run on GPU (skip this to run on CPU)
