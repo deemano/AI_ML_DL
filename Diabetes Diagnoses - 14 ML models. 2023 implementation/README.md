@@ -20,9 +20,9 @@
    4.6. Categorical Features - Count-plots <br>
 
 6. Data Partitioning
-7. Features Selection Methods
-   6.1. Feature Importance with Random Forest
-       6.1.1. Testing Random Forest with GridSearchCV - determine best ML model hyperparameters
+7. Features Selection Methods<br>
+   6.1. Feature Importance with Random Forest<br>
+       6.1.1. Testing Random Forest with GridSearchCV - determine best ML model hyperparameters<br>
    6.2. Dropping irrelevant columns
 
 8. Hierarchical classification (2 stages)
