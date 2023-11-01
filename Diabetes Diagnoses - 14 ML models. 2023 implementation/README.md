@@ -7,9 +7,9 @@
 3. Dataset Cleaning & Optimization
 
    Features Scaling:
-       - Normalize 'BMI' feature with Min_Max
-       - Normalize 'BMI' feature with Z-score
-       - Normalize 'BMI' feature with Power Transformer - Yeo-Johnson transformation
+   - Normalize 'BMI' feature with Min_Max
+   - Normalize 'BMI' feature with Z-score
+   - Normalize 'BMI' feature with Power Transformer - Yeo-Johnson transformation
 
 4. Exploratory Data Analysis (EDA)
    4.1. Target Variable Distribution & Visualization
