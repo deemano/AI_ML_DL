@@ -17,7 +17,7 @@
    4.3. Correlation Matrix
    4.4. Pair Pilot Visualization
    4.5. Visualize features across classes - Box-plots
-   4.6. Categorical Features - Count-plots
+   4.6. Categorical Features - Count-plots 
 
 5. Data Partitioning
 6. Features Selection Methods
