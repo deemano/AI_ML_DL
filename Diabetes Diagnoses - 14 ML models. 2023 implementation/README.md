@@ -11,7 +11,7 @@
    - Normalize 'BMI' feature with Z-score
    - Normalize 'BMI' feature with Power Transformer - Yeo-Johnson transformation
 
-4. Exploratory Data Analysis (EDA)
+4. Exploratory Data Analysis (EDA):
    4.1. Target Variable Distribution & Visualization
    4.2. Visualize Numerical Features Distribution
    4.3. Correlation Matrix
