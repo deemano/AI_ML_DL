@@ -1,6 +1,6 @@
 # Implementation of 14 different ML models
 
-# CONTENT: 
+## CONTENT: 
 0. System Setup - Set model to run on GPU (skip this to run on CPU)
 1. Inception - Preparing the Working Environment
 2. Importing the Dataset, Checks and Optimizations
