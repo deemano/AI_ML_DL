@@ -11,13 +11,13 @@
    - Normalize 'BMI' feature with Z-score
    - Normalize 'BMI' feature with Power Transformer - Yeo-Johnson transformation
 
-4. Exploratory Data Analysis (EDA):
-4.1. Target Variable Distribution & Visualization
-   4.2. Visualize Numerical Features Distribution
-   4.3. Correlation Matrix
-   4.4. Pair Pilot Visualization
-   4.5. Visualize features across classes - Box-plots
-   4.6. Categorical Features - Count-plots 
+4. Exploratory Data Analysis (EDA):<br>
+   4.1. Target Variable Distribution & Visualization<br>
+   4.2. Visualize Numerical Features Distribution<br>
+   4.3. Correlation Matrix<br>
+   4.4. Pair Pilot Visualization<br>
+   4.5. Visualize features across classes - Box-plots<br>
+   4.6. Categorical Features - Count-plots <br>
 
 6. Data Partitioning
 7. Features Selection Methods
