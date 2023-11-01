@@ -28,11 +28,11 @@
 8. Hierarchical classification (2 stages)
    - Building the Model structure
 
-   Stage 1 Classification Models (various tried)
-   7.1. Random Forest Classifier
-       Additional Operations:
-       - Filter Data for Second Stage Classification modeling
-       - Prepare Data for Second Stage
+   Stage 1 Classification Models (various tried)<br>
+   7.1. Random Forest Classifier<br>
+       Additional Operations:<br>
+       - Filter Data for Second Stage Classification modelling<br>
+       - Prepare Data for Second Stage<br>
 
    7.2. Logistic Regression
    7.3. Support Vector Machines (SVM)
