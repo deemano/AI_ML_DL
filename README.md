@@ -4,7 +4,7 @@ Development of different AI models.<br>
 
 Folder:&nbsp;     &emsp;Diabetes Diagnoses - 14 ML models. 2023 implementation<br>
 Content:    &emsp;Binary Hierarchical Classification implemented with:<br>
-&smsp;1. Random Forest Classifier<br>
+&emsp;1. Random Forest Classifier<br>
 &smsp;2. Logistic Regression<br>
 &smsp;3. Support Vector Machines (SVM)<br>
 &smsp;4. K-Nearest Neighbors<br>
