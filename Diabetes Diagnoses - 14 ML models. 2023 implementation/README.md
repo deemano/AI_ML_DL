@@ -49,6 +49,7 @@
    7.12. CatBoost<br>
    7.13. Anomaly Detection Models: Isolation Forest<br>
    7.14. Transformers<br>
+   7.14. SHAP - importance value distribution analysis.
 
    Stage 2<br>
    - Determine important features between Pre-Diabetes & Diabetes classes<br>
@@ -57,6 +58,7 @@
    7.2.2. Logistic Regression<br>
    7.2.3. Gradient Boost Trees<br>
    7.3. Evaluate the Best model from Stage 2 (Gradient Boost Trees)<br>
+   7.4. SHAP - importance value distribution analysis.
 
 ## NOTES: 
 The dataset is provided by the CDC - Centers For Disease Control And Prevention.<br>
